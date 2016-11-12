@@ -1,0 +1,9 @@
+C:\Users\mohamed.rabdelaal\Source\Repos\c-Compiler\c-Compiler\redaCompiler\redaCompiler\bin\Debug\redaCompiler.exe.config
+C:\Users\mohamed.rabdelaal\Source\Repos\c-Compiler\c-Compiler\redaCompiler\redaCompiler\bin\Debug\redaCompiler.exe
+C:\Users\mohamed.rabdelaal\Source\Repos\c-Compiler\c-Compiler\redaCompiler\redaCompiler\bin\Debug\redaCompiler.pdb
+C:\Users\mohamed.rabdelaal\Source\Repos\c-Compiler\c-Compiler\redaCompiler\redaCompiler\obj\Debug\redaCompiler.csprojResolveAssemblyReference.cache
+C:\Users\mohamed.rabdelaal\Source\Repos\c-Compiler\c-Compiler\redaCompiler\redaCompiler\obj\Debug\redaCompiler.Form1.resources
+C:\Users\mohamed.rabdelaal\Source\Repos\c-Compiler\c-Compiler\redaCompiler\redaCompiler\obj\Debug\redaCompiler.Properties.Resources.resources
+C:\Users\mohamed.rabdelaal\Source\Repos\c-Compiler\c-Compiler\redaCompiler\redaCompiler\obj\Debug\redaCompiler.csproj.GenerateResource.Cache
+C:\Users\mohamed.rabdelaal\Source\Repos\c-Compiler\c-Compiler\redaCompiler\redaCompiler\obj\Debug\redaCompiler.exe
+C:\Users\mohamed.rabdelaal\Source\Repos\c-Compiler\c-Compiler\redaCompiler\redaCompiler\obj\Debug\redaCompiler.pdb
